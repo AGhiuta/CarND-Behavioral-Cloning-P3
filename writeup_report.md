@@ -16,10 +16,10 @@ The goals / steps of this project are the following:
 
 [image1]: ./images/Sample.png "Sample"
 [image2]: ./images/Brightness.png "Brightness"
-[image3]: ./examples/Flip.png "Flip"
-[image4]: ./examples/Shift.png "Shift"
-[image5]: ./examples/Cropped.png "Cropped"
-[image6]: ./examples/nvidia.png "Nvidia"
+[image3]: ./images/Flip.png "Flip"
+[image4]: ./images/Shift.png "Shift"
+[image5]: ./images/Cropped.png "Cropped"
+[image6]: ./images/nvidia.png "Nvidia"
 
 ## Rubric Points
 ###Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/432/view) individually and describe how I addressed each point in my implementation.  
